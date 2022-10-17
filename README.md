@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @poojavishwakarma57
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-poojavishwakarma57/poojavishwakarma57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+print ('Hello')
+Hello
+a=5
+b=7
+print ("a+b")
+12
+if 5>2
+print ("ifve is greater than two")
+five is greater than two
